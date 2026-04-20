@@ -48,3 +48,10 @@ If the enhancement improves usability without adding confusion, it should be inc
  ## Integration Decision
 
 The prototype enhancement was added to the main project because it improves usability and makes the results easier for decision makers to understand. By presenting player readiness in a simpler and clearer way, the tool becomes more practical and more likely to be used in real team decisions.
+## Reflection on Innovation and Version Control
+
+Branches enable low-risk experimentation by allowing analytics teams to test new ideas without affecting the main version of a project. This makes it easier to explore improvements, compare different approaches, and refine tools before they are officially implemented.
+
+GitHub also helps analytics projects gain support from decision makers by making development transparent, structured, and iterative. It supports documentation, version tracking, and clear communication of how an idea changes over time.
+
+This workflow aligns with the innovation framework in Chapter 7, as it reflects the progression from idea generation to prototyping, evaluation, and implementation. In this structure, the main branch represents the stable version of the project, while feature or prototype branches are used for testing and improving new ideas before adoption.
