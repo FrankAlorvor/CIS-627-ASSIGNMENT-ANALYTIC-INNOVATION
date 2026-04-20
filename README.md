@@ -24,3 +24,13 @@ The focus is on making the data simple, clear, and useful for real decisions.
 
 ## Connection to Chapter 7
 This project is currently in the **creative phase** of innovation. The idea is clearly defined and linked to an important decision problem, but it has not yet been tested or developed further. This matches Chapter 7, where the focus is on creating strong ideas before moving into building and testing stages.
+## Prototype Evaluation
+
+The enhancement should be added to the main project if it makes the dashboard easier to use and helps improve decisions about player rotation. In analytics projects, success depends not just on having a good idea, but also on whether decision makers find the tool simple and practical to use.
+
+Feedback should mainly come from users like coaches, performance staff, and front office leaders. They should evaluate whether the update:
+- Makes information clearer  
+- Fits well into their daily workflow  
+- Builds confidence in playing-time decisions  
+
+If the enhancement improves usability without adding confusion, it should be included in the final version.
