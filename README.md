@@ -45,3 +45,6 @@ Feedback should mainly come from users like coaches, performance staff, and fron
 
 If the enhancement improves usability without adding confusion, it should be included in the final version.
  main
+ ## Integration Decision
+
+The prototype enhancement was added to the main project because it improves usability and makes the results easier for decision makers to understand. By presenting player readiness in a simpler and clearer way, the tool becomes more practical and more likely to be used in real team decisions.
