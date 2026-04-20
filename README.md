@@ -24,3 +24,11 @@ The focus is on making the data simple, clear, and useful for real decisions.
 
 ## Connection to Chapter 7
 This project is currently in the **creative phase** of innovation. The idea is clearly defined and linked to an important decision problem, but it has not yet been tested or developed further. This matches Chapter 7, where the focus is on creating strong ideas before moving into building and testing stages.
+## Prototype Enhancement
+
+This update improves the Player Rotation Readiness Dashboard by adding a **visual classification layer**. Instead of only displaying raw performance and workload data, the dashboard groups players into clear categories such as:
+- **Ready for Expanded Role**
+- **Stable Current Role**
+- **Monitor for Fatigue**
+
+This enhancement makes decision-making faster and more practical. Coaches and team executives often need quick, clear insights rather than detailed tables of numbers. By turning multiple data points into simple status labels, the dashboard becomes easier to read and more useful for game preparation and planning.
